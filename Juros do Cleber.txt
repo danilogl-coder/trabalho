@@ -1,0 +1,15 @@
+---- Boleto referente 03/05/23 ----
+
+Valor base = R$276,67
+entre 04/05/23 a 08/05/23 juros = R$12,40 - valor unitario 3,10
+Valor com juros = R$289,07 em %0,02 valor = 0,057814
+
+entre 08/05/23 a 09/06/23 total de dias  32, 32x0,057814 = R$1,80 de Juros.
+Valor a ser cobrado -> 289,07  + 1,80 =  R$290,87
+
+em 36 dias de juros temos R$14,20
+
+----------------------------------------------
+
+
+

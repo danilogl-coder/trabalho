@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompNfse xmlns="http://www.abrasf.org.br/nfse.xsd" xmlns:ns2="http://www.w3.org/2000/09/xmldsig#">
+    <Nfse versao="2.01">
+        <InfNfse Id="16443204U3Z8UQG08666WA5R034FM7OT">
+            <Numero>1736</Numero>
+            <CodigoVerificacao>HYKA9V1E4</CodigoVerificacao>
+            <DataEmissao>2023-07-06T16:33:12</DataEmissao>
+            <OutrasInformacoes>Val. Aprox. Tributos:</OutrasInformacoes>
+            <ValoresNfse>
+                <BaseCalculo>100.00</BaseCalculo>
+                <Aliquota>2.01</Aliquota>
+                <ValorIss>2.01</ValorIss>
+                <ValorLiquidoNfse>100.00</ValorLiquidoNfse>
+            </ValoresNfse>
+            <PrestadorServico>
+                <IdentificacaoPrestador>
+                    <CpfCnpj>
+                        <Cnpj>07309698000170</Cnpj>
+                    </CpfCnpj>
+                    <InscricaoMunicipal>10049</InscricaoMunicipal>
+                </IdentificacaoPrestador>
+                <RazaoSocial>LUCI APARECIDA DA SILVA RODRIGUES MECANICA ME</RazaoSocial>
+                <NomeFantasia>POSTO DE MOLA BILL</NomeFantasia>
+                <Endereco>
+                    <Endereco>AVENIDA AVENIDA MARGINAL DIREITA</Endereco>
+                    <Numero>00085</Numero>
+                    <Bairro>DISTRITO INDUSTRIAL</Bairro>
+                    <CodigoMunicipio>3549409</CodigoMunicipio>
+                    <Uf>SP</Uf>
+                    <CodigoPais>1058</CodigoPais>
+                    <Cep>14600000</Cep>
+                </Endereco>
+                <Contato>
+                    <Telefone>1638115029</Telefone>
+                    <Email>postodemolasbill@hotmail.com</Email>
+                </Contato>
+            </PrestadorServico>
+            <OrgaoGerador>
+                <CodigoMunicipio>3549409</CodigoMunicipio>
+                <Uf>SP</Uf>
+            </OrgaoGerador>
+            <DeclaracaoPrestacaoServico>
+                <InfDeclaracaoPrestacaoServico>
+                    <Competencia>2023-07-06</Competencia>
+                    <Servico>
+                        <Valores>
+                            <ValorServicos>100.00</ValorServicos>
+                            <ValorDeducoes>0.00</ValorDeducoes>
+                            <ValorPis>0.00</ValorPis>
+                            <ValorCofins>0.00</ValorCofins>
+                            <ValorInss>0.00</ValorInss>
+                            <ValorIr>0.00</ValorIr>
+                            <ValorCsll>0.00</ValorCsll>
+                            <OutrasRetencoes>0.00</OutrasRetencoes>
+                            <ValorIss>2.01</ValorIss>
+                            <Aliquota>2.01</Aliquota>
+                            <DescontoIncondicionado>0.00</DescontoIncondicionado>
+                            <DescontoCondicionado>0.00</DescontoCondicionado>
+                        </Valores>
+                        <IssRetido>2</IssRetido>
+                        <ResponsavelRetencao>1</ResponsavelRetencao>
+                        <ItemListaServico>14.05</ItemListaServico>
+                        <CodigoTributacaoMunicipio>0000140000005</CodigoTributacaoMunicipio>
+                        <Discriminacao>SERVIÇO DE MOLEJO/TROCA DE MOLA-100.0 </Discriminacao>
+                        <CodigoMunicipio>3549409</CodigoMunicipio>
+                        <ExigibilidadeISS>1</ExigibilidadeISS>
+                        <MunicipioIncidencia>3549409</MunicipioIncidencia>
+                    </Servico>
+                    <Prestador>
+                        <CpfCnpj>
+                            <Cnpj>07309698000170</Cnpj>
+                        </CpfCnpj>
+                        <InscricaoMunicipal>10049</InscricaoMunicipal>
+                    </Prestador>
+                    <Tomador>
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+<Cnpj>55140818000100</Cnpj>
+                            </CpfCnpj>
+                            <InscricaoMunicipal>5200050</InscricaoMunicipal>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>AUTO VIAÇAÕ M.M.SOUZA TURISMO LTDA</RazaoSocial>
+                        <Endereco>
+                            <Endereco>RUA DR.HUMBERTO ANNICCHINO</Endereco>
+                            <Numero>295</Numero>
+                            <Bairro>DISTRITO INDUSTRIAL NOVO TEMPO</Bairro>
+                            <CodigoMunicipio>3510401</CodigoMunicipio>
+                            <Uf>SP</Uf>
+                            <Cep>13366506</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>1934928222</Telefone>
+                            <Email>NFE@MMSOUZA.COM.BR</Email>
+                        </Contato>
+                    </Tomador>
+                    <RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>1</OptanteSimplesNacional>
+                    <IncentivoFiscal>2</IncentivoFiscal>
+                </InfDeclaracaoPrestacaoServico>
+            </DeclaracaoPrestacaoServico>
+        </InfNfse>
+    </Nfse>
+</CompNfse>
